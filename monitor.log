@@ -1,0 +1,1720 @@
+18:41:02.297603 IP zcyq-collect-03.39673 > 124.251.46.67.http: Flags [P.], seq 3917400715:3917401319, ack 2792811391, win 115, length 604
+E...`.@.@.|.
+
+..|..C...P.~...v..P..s]p..GET /2014-11-10/14127017.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)
+Host: news.bijie.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%87%91%E6%B5%B7%E6%B9%BE%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:02.297665 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 3720037270:3720037904, ack 3495525856, win 614, length 634
+E...yT@.@.d.
+
+..|..C...P..C..Y}.P..f]...GET /2014-07-09/13230421.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:02.297698 IP zcyq-collect-03.39563 > 124.251.46.67.http: Flags [P.], seq 3615234188:3615234818, ack 1162982602, win 649, length 630
+E...|N@.@.a.
+
+..|..C...P.|..EQ..P...]...GET /house/1010798823_1424387.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.27 (KHTML, like Gecko) Chrome/12.0.712.0 Safari/534.27
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:02.308767 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 269339440:269340012, ack 2447577080, win 2289, length 572
+E..d\^@.@.l}
+
+.....&.L.P..0....P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=30; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:02.812818 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 602521513:602522362, ack 1250161618, win 3441, options [nop,nop,TS val 1064416120 ecr 19324570], length 849
+E....>@.@..t
+
+.........P#...J.....q'8.....
+?q.x.&..GET /ensure/index/c/ensure_jjsyf_hbbt/page/13095.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:03.088964 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 572:1090, ack 10207, win 2289, length 518
+E...\f@.@.l.
+
+.....&.L.P..l..7.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=35; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:03.644043 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 1090:1621, ack 20452, win 2289, length 531
+E..;\m@.@.l.
+
+.....&.L.P..r.._.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=39; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:03.722399 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 2921916138:2921916715, ack 3324309738, win 62780, length 577
+E..i..@.@..6
+
+...a!..\.P.(...$..P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=71; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:03.733136 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 634:1245, ack 30134, win 614, length 611
+E...yd@.@.d.
+
+..|..C...P..F..Y..P..f]w..GET /2014-08-07/13471948.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:03.956366 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 0:577, ack 1, win 62780, length 577
+E..i..@.@..5
+
+...a!..\.P.(...$..P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=71; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:04.437403 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 1621:2195, ack 30665, win 2289, length 574
+E..f\q@.@.lh
+
+.....&.L.P.......P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%8E%AB%E5%A5%88%E7%9A%84%E6%B9%96&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=33; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:05.104623 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 2195:2735, ack 42864, win 2289, length 540
+E..D\{@.@.l.
+
+.....&.L.P......gP...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%8E%AB%E5%A5%88%E7%9A%84%E6%B9%96&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=34; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:05.343095 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 4157555564:4157556164, ack 4113338581, win 168, length 600
+E.....@.@.+.
+
+....n=...P..Cl.,..P.......GET /news/2014-08-30/13615017.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:05.343148 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 1245:1874, ack 58185, win 614, length 629
+E...yr@.@.c.
+
+..|..C...P..Hs.Za(P..f]...GET /house/1010798823_1571315.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:05.343181 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 3008357475:3008358081, ack 4026422446, win 62780, length 606
+E...).@.@...
+
+...a!..m.P.O.c..T.P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.23) Gecko/20090825 SeaMonkey/1.1.18
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=71; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:05.692296 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 2735:3318, ack 55006, win 2289, length 583
+E..o\.@.@.lM
+
+.....&.L.P.......P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%8E%AB%E5%A5%88%E7%9A%84%E6%B9%96&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.27 (KHTML, like Gecko) Chrome/12.0.712.0 Safari/534.27
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=38; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:06.140877 IP zcyq-collect-03.33934 > 222.240.149.20.http: Flags [P.], seq 1741092450:1741093299, ack 2702840666, win 115, options [nop,nop,TS val 1064419448 ecr 0], length 849
+E...6.@.@...
+
+.........Pg..b...Z...s'8.....
+?q.x....GET /ensure/index/c/ensure_jjsyf_hbbt/page/13080.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:06.349393 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 3318:3848, ack 65242, win 2289, length 530
+E..:\.@.@.l|
+
+.....&.L.P..&....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=34; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:06.850439 IP zcyq-collect-03.39674 > 124.251.46.67.http: Flags [P.], seq 3683998660:3683999262, ack 2773288725, win 115, length 602
+E.....@.@...
+
+..|..C...P..[..M..P..s]n..GET /2016-12-30/23989491.htm?from=ask HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:06.850485 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 577:1179, ack 18619, win 62780, length 602
+E.....@.@...
+
+...a!..\.P.(.+.%9.P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%A3%B9%E4%B8%AD%E5%BF%83%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=71; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:06.850521 IP zcyq-collect-03.39563 > 124.251.46.67.http: Flags [P.], seq 630:1212, ack 33501, win 649, length 582
+E..n|`@.@.a0
+
+..|..C...P.|..ER7.P...]Z..GET /2014-10-16/13961802.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:07.056374 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 3848:4343, ack 75487, win 2289, length 495
+E...\.@.@.l.
+
+.....&.L.P..8..6.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.01Gold (Win95; I)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=32; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:07.769578 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 4343:4875, ack 85690, win 2289, length 532
+E..<\.@.@.li
+
+.....&.L.P..'..^.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=32; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:08.537652 IP zcyq-collect-03.59041 > 218.30.110.61.http: Flags [P.], seq 1226708547:1226709141, ack 1031688328, win 158, length 594
+E..z!.@.@..c
+
+....n=...PI..C=~P.P.......GET /news/2014-10-16/13961489.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%97%B6%E4%BB%A3%E5%9F%8E%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:08.537717 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 606:1145, ack 18617, win 62780, length 539
+E..C).@.@..0
+
+...a!..m.P.O.....fP..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%A3%B9%E4%B8%AD%E5%BF%83%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.25 (Windows NT 6.0; U; en)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=72; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:08.586470 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 4875:5414, ack 95895, win 2300, length 539
+E..C\.@.@.lY
+
+.....&.L.P..;....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=31; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:09.423416 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 1179:1795, ack 38723, win 62780, length 616
+E.....@.@...
+
+...a!..\.P.(...%.,P..<.'..GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%A3%B9%E4%B8%AD%E5%BF%83%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 (like Firefox/3.x) SeaMonkey/2.0.12
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=72; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:09.423468 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 1874:2455, ack 92134, win 614, length 581
+E..my.@.@.d
+
+..|..C...P..J..Z..P..f]Y..GET /2014-11-06/14102632.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows XP) Gecko MultiZilla/1.6.1.0a
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B9%9D%E9%BE%99%E6%B9%BE%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:09.427350 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 5414:5954, ack 106120, win 2300, length 540
+E..D\.@.@.lS
+
+.....&.L.P..V....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=33; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:09.479832 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 849:1698, ack 213275, win 3441, options [nop,nop,TS val 1064422787 ecr 19324635], length 849
+E....f@.@..L
+
+.........P#...J.4...q'8.....
+?q...&..GET /ensure/index/c/ensure_jjsyf_hbbt/page/13065.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:10.100023 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 5954:6544, ack 116350, win 2300, length 590
+E..v\.@.@.l.
+
+.....&.L.P..r...uP...r!..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%B8%A9%E6%B3%89%E5%B0%8F%E5%8C%BA&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=35; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:15.894630 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 1698:2547, ack 426533, win 3441, options [nop,nop,TS val 1064429202 ecr 19324702], length 849
+E.....@.@..$
+
+.........P#..KJ.u...q'8.....
+?q...&..GET /ensure/index/c/ensure_jjsyf_hbbt/page/13035.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:15.909511 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 2972:3549, ack 100604, win 62780, length 577
+E..i..@.@...
+
+...a!..\.P.(...&y.P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%95%BF%E5%9F%8E%E6%B2%B3%E8%B0%B7%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=76; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:15.909569 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 3044:3664, ack 147974, win 614, length 620
+E...y.@.@.c.
+
+..|..C...P..Oz.[..P..f]...GET /2015-07-06/16491283.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%95%BF%E5%9F%8E%E6%B2%B3%E8%B0%B7%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:16.429633 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 11044:11548, ack 208624, win 2300, length 504
+E.. \.@.@.l+
+
+.....&.L.P..T..>.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%95%BF%E5%9F%8E%E6%B2%B3%E8%B0%B7&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.01Gold (Win95; I)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=37; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:16.911476 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 11548:12069, ack 218863, win 2300, length 521
+E..1\.@.@.l.
+
+.....&.L.P..L..f.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=34; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:17.550821 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 2893:3504, ack 101245, win 62780, length 611
+E...*.@.@...
+
+...a!..m.P.O.....*P..<."..GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=163; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:17.550878 IP zcyq-collect-03.39563 > 124.251.46.67.http: Flags [P.], seq 2396:3000, ack 123794, win 649, length 604
+E...|.@.@.`.
+
+..|..C...P.|!.ES.[P...]p..GET /house/1010794089_1521521.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%95%BF%E5%9F%8E%E6%B2%B3%E8%B0%B7%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:17.764716 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 12069:12642, ack 229033, win 2300, length 573
+E..e].@.@.k.
+
+.....&.L.P..U....P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.1 (KHTML, like Gecko) Maxthon/3.0.8.2 Safari/533.1
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=35; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:18.396854 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 3549:4105, ack 121889, win 62780, length 556
+E..T..@.@...
+
+...a!..\.P.(...&.
+P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=163; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:18.405083 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 12642:13172, ack 239217, win 2300, length 530
+E..:]	@.@.k.
+
+.....&.L.P......hP...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=37; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:19.105007 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 13172:13782, ack 249390, win 2300, length 610
+E...].@.@.k.
+
+.....&.L.P......%P...r5..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=33; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:19.136044 IP zcyq-collect-03.33940 > 222.240.149.20.http: Flags [P.], seq 663168919:663169768, ack 1836759648, win 115, options [nop,nop,TS val 1064432443 ecr 0], length 849
+E.....@.@.>.
+
+.........P'.'.mz.`...s'8.....
+?q.;....GET /ensure/index/c/ensure_jjsyf_hbbt/page/13020.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:19.388958 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 3504:4077, ack 119815, win 62775, length 573
+E..e*-@.@...
+
+...a!..m.P.O....(.P..7....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%B6%8A%E5%8D%97%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=163; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:19.914143 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 13782:14321, ack 259628, win 2300, length 539
+E..C].@.@.k.
+
+.....&.L.P.......#P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows XP) Gecko MultiZilla/1.6.1.0a
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=39; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:20.189358 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 4105:4696, ack 140467, win 62780, length 591
+E..w..@.@...
+
+...a!..\.P.(...'..P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=163; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:20.448797 IP zcyq-collect-03.39669 > 124.251.46.67.http: Flags [P.], seq 992145748:992146341, ack 3108793047, win 365, length 593
+E..y`.@.@.|.
+
+..|..C...P;".T.Lj.P..m]e..GET /2017-04-29/25091322.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.10
+Host: news.zz.fang.com
+Cookie: JSESSIONID=aaa2OjbewmInx6ljf-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.462707 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 526, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.462772 IP zcyq-collect-03.39674 > 124.251.46.67.http: Flags [P.], seq 1925:2558, ack 93225, win 501, length 633
+E.....@.@...
+
+..|..C...P..cI.Ns=P...]...GET /2016-09-29/23051097.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.508765 IP zcyq-collect-03.39682 > 124.251.46.67.http: Flags [P.], seq 1988957928:1988958583, ack 2035070955, win 115, length 655
+E.....@.@...
+
+..|..C...Pv...yL..P..s]...GET /house/1110120999_1464420.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: news.tj.fang.com
+Cookie: JSESSIONID=aaatjJ145DVqY-SGD-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.521189 IP zcyq-collect-03.39683 > 124.251.46.67.http: Flags [P.], seq 2051282786:2051283382, ack 2067123467, win 115, length 596
+E..|..@.@..h
+
+..|..C...PzD.b{5..P..s]h..GET /2016-05-27/21307639_2.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+Host: news.gz.fang.com
+Cookie: JSESSIONID=aaa8t0GejvtDvbwTc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.541362 IP zcyq-collect-03.59082 > 218.30.110.61.http: Flags [P.], seq 2727164946:2727165597, ack 3457367928, win 115, length 651
+E.....@.@.{.
+
+....n=...P..<...?xP..s....GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.704305 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:20.783889 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 14321:14860, ack 269873, win 2300, length 539
+E..C].@.@.k.
+
+.....&.L.P...!...(P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.10
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=34; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:21.188385 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:21.574088 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 14860:15449, ack 280096, win 2300, length 589
+E..u]"@.@.k.
+
+.....&.L.P...<..V.P...r ..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.8 (KHTML, like Gecko) Beamrise/17.2.0.9 Chrome/17.0.939.0 Safari/535.8
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=35; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:21.591368 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 3664:4285, ack 176955, win 614, length 621
+E...y.@.@.c.
+
+..|..C...P..Q..\1.P..f]...GET /2015-08-04/16837561.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB5
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:21.591423 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 4077:4665, ack 138386, win 62775, length 588
+E..t*:@.@...
+
+...a!..m.P.O.P..q?P..7....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=68; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:21.591464 IP zcyq-collect-03.59041 > 218.30.110.61.http: Flags [P.], seq 594:1157, ack 526, win 167, length 563
+E..[!.@.@...
+
+....n=...PI...=~R.P....d..GET /news/2016-11-27/23645193.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/7.50 (Windows ME; U) [en]
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:22.156307 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:22.408939 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 15449:16022, ack 291929, win 2300, length 573
+E..e](@.@.k.
+
+.....&.L.P.......PP...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=31; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:22.421320 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 2547:3396, ack 639850, win 3441, options [nop,nop,TS val 1064435728 ecr 19324766], length 849
+E.....@.@...
+
+.........P#...J..;..q'8.....
+?r...&.^GET /ensure/index/c/ensure_jjsyf_hbbt/page/13005.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:23.095635 IP zcyq-collect-03.59043 > 218.30.110.61.http: Flags [P.], seq 121576587:121577201, ack 3700054311, win 169, length 614
+E...>[@.@...
+
+....n=...P.?....Y'P.......GET /news/2016-03-24/20283600.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b4pre) Gecko/20100815 Minefield/4.0b4pre
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:23.095709 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 4696:5283, ack 167542, win 62778, length 587
+E..s.,@.@...
+
+...a!..\.P.(.B.'._P..:.
+..GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:16.0) Gecko/16.0 Firefox/16.0
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=68; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:23.268783 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 16022:16554, ack 302188, win 2300, length 532
+E..<]1@.@.k.
+
+.....&.L.P..	....cP...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=31; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:23.988592 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 4665:5339, ack 165447, win 62780, length 674
+E...*L@.@..=
+
+...a!..m.P.O......P..<.a..GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=76; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:24.073212 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 16554:17055, ack 312398, win 2391, length 501
+E...]:@.@.k.
+
+.....&.L.P.......EP.	Wq...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.25 (Windows NT 6.0; U; en)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=28; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:24.092296 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:24.761860 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 17055:17573, ack 322600, win 2528, length 518
+E...]B@.@.k.
+
+.....&.L.P.......P.	.q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=39; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:25.494013 IP zcyq-collect-03.60492 > 14.215.177.38.http: Flags [P.], seq 17573:18103, ack 333520, win 2665, length 530
+E..:]J@.@.k.
+
+.....&.L.P......&.P.
+iq...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.10
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=42; PSINO=6; BAIDUID=EB0F717B8649A32FF730E23627D20EC6:FG=1; PSTM=1496745638; BIDUPSID=EB0F717B8649A32FF730E23627D20EC6; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:25.637254 IP zcyq-collect-03.33948 > 222.240.149.20.http: Flags [P.], seq 4039137794:4039138643, ack 2485365920, win 115, options [nop,nop,TS val 1064438944 ecr 0], length 849
+E...V.@.@...
+
+.........P..Z..#.....s'8.....
+?r......GET /ensure/index/c/ensure_jjsyf_hbbt/page/12990.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:26.312977 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 5283:5907, ack 192189, win 62780, length 624
+E....>@.@..}
+
+...a!..\.P.(...'..P..<./..GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=178; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:26.336115 IP zcyq-collect-03.39671 > 124.251.46.67.http: Flags [P.], seq 256236020:256236663, ack 3895056101, win 502, length 643
+E...C[@.@...
+
+..|..C...P.E...)..P...]...GET /2015-04-24/15698594.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 (like Firefox/3.x) SeaMonkey/2.0.12
+Host: news.sz.fang.com
+Cookie: JSESSIONID=aaajSgAgwKU1T785k-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:26.358475 IP zcyq-collect-03.59082 > 218.30.110.61.http: Flags [P.], seq 651:1287, ack 31163, win 363, length 636
+E.....@.@.{.
+
+....n=...P..>....2P..k....GET /news/zt/201305/bgytyt.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:26.400396 IP zcyq-collect-03.39683 > 124.251.46.67.http: Flags [P.], seq 596:1142, ack 29790, win 457, length 546
+E..J.)@.@...
+
+..|..C...PzD..{6AhP...]6..GET /2016-04-23/20787229.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/2.02E (Win95; U)
+Host: news.gz.fang.com
+Cookie: JSESSIONID=aaa8t0GejvtDvbwTc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:27.141325 IP zcyq-collect-03.59041 > 218.30.110.61.http: Flags [P.], seq 1157:1795, ack 29870, win 375, length 638
+E...!.@.@..!
+
+....n=...PI...=~.5P..w....GET /news/2014-03-31/12429008.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.24 Safari/535.1
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:27.141386 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 5339:5880, ack 188083, win 62780, length 541
+E..E*\@.@...
+
+...a!..m.P.O.>..3`P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/7.51 (Windows NT 5.1; U) [en]
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=178; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:27.141423 IP zcyq-collect-03.39683 > 124.251.46.67.http: Flags [P.], seq 1142:1783, ack 57523, win 457, length 641
+E....7@.@...
+
+..|..C...PzD..{6..P...]...GET /2016-08-21/22537428.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.6 (Change: )
+Host: news.gz.fang.com
+Cookie: JSESSIONID=aaa8t0GejvtDvbwTc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:27.161916 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 229903046:229903392, ack 414217484, win 115, length 346
+E....V@.@..g
+
+.....&...P.
+...u.P..sq-..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1
+
+
+18:41:27.939155 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 346:662, ack 16370, win 334, length 316
+E..d.a@.@..z
+
+.....&...P.. ....P..Nq...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1
+
+
+18:41:27.964306 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:27.964496 IP zcyq-collect-03.59043 > 218.30.110.61.http: Flags [P.], seq 614:1265, ack 28768, win 377, length 651
+E...>n@.@...
+
+....n=...P.?......P..y....GET /news/2013-03-07/9661168.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.6 (Change: )
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:27.964561 IP zcyq-collect-03.39683 > 124.251.46.67.http: Flags [P.], seq 1783:2418, ack 90984, win 480, length 635
+E....J@.@...
+
+..|..C...PzD.Y{70rP...]...GET /2015-05-14/15911499.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)
+Host: news.gz.fang.com
+Cookie: JSESSIONID=aaa8t0GejvtDvbwTc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:28.648768 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 662:1022, ack 32875, win 471, length 360
+E....j@.@..E
+
+.....&...P.\...vP...q;..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14
+
+
+18:41:28.739030 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 5907:6483, ack 214966, win 62780, length 576
+E..h.O@.@...
+
+...a!..\.P.(...(8.P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=189; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:28.739090 IP zcyq-collect-03.39563 > 124.251.46.67.http: Flags [P.], seq 3000:3641, ack 156096, win 649, length 641
+E...|.@.@.`.
+
+..|..C...P.|$DET..P...]...GET /zt/201305/bgytyt.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.1 (KHTML, like Gecko) Maxthon/3.0.8.2 Safari/533.1
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:28.961755 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 3396:4245, ack 853145, win 3441, options [nop,nop,TS val 1064442269 ecr 19324831], length 849
+E.....@.@...
+
+.........P#...J..j..q'8.....
+?r...&..GET /ensure/index/c/ensure_jjsyf_hbbt/page/12975.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:29.505616 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 1022:1402, ack 49323, win 501, length 380
+E....v@.@..%
+
+.....&...P.....5.P...qO..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%89%93%E4%BA%BA&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
+
+
+18:41:29.637156 IP zcyq-collect-03.54893 > 180.97.33.136.http: Flags [P.], seq 5880:6450, ack 210743, win 62780, length 570
+E..b*l@.@...
+
+...a!..m.P.O.[....P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=10&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=189; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:29.637216 IP zcyq-collect-03.59082 > 218.30.110.61.http: Flags [P.], seq 1287:1883, ack 31726, win 384, length 596
+E..|..@.@.{.
+
+....n=...P..A....eP.......GET /news/zt/201312/qjbgy.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:30.291201 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 1402:1783, ack 59978, win 501, length 381
+E....}@.@...
+
+.....&...P..@.._UP...qP..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%89%93%E4%BA%BA&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
+
+
+18:41:30.332561 IP zcyq-collect-03.54876 > 180.97.33.136.http: Flags [P.], seq 6483:7048, ack 241480, win 62780, length 565
+E..].a@.@...
+
+...a!..\.P.).=.(.1P..<....GET /ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+Host: news.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=189; PSINO=3; BAIDUID=03CCAE647BC7063972ED307C62887879:FG=1; PSTM=1496745540; BIDUPSID=03CCAE647BC7063972ED307C62887879; BDRCVFR[C0p6oIjvx-c]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:30.604292 IP zcyq-collect-03.39674 > 124.251.46.67.http: Flags [P.], seq 2558:3190, ack 124370, win 524, length 632
+E.....@.@...
+
+..|..C...P..e..N..P...]...GET /open/25336830.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14
+Host: news.fang.com
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:30.617091 IP zcyq-collect-03.39554 > 124.251.46.67.http: Flags [P.], seq 4285:4919, ack 205058, win 614, length 634
+E...y.@.@.c.
+
+..|..C...P..TS.\..P..f]...GET /2014-03-31/12429008.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:30.656469 IP zcyq-collect-03.39683 > 124.251.46.67.http: Flags [P.], seq 2418:3055, ack 122735, win 480, length 637
+E....\@.@...
+
+..|..C...PzD .{7.yP...]...GET /2016-08-26/22605280_all.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 (like Firefox/3.x) SeaMonkey/2.0.12
+Host: news.gz.fang.com
+Cookie: JSESSIONID=aaa8t0GejvtDvbwTc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:30.679226 IP zcyq-collect-03.39694 > 124.251.46.67.http: Flags [P.], seq 4248735528:4248736160, ack 1604432857, win 115, length 632
+E....5@.@..)
+
+..|..C...P.>.(_...P..s]...GET /open/24561054.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9
+Host: news.cd.fang.com
+Cookie: JSESSIONID=aaazLG-8rhU0186Ec-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:30.679279 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 2288918120:2288918740, ack 2502280095, win 115, length 620
+E...>u@.@...
+
+..|..C..P.n.h.%..P..s]...GET /2017-01-10/24083070.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:30.937213 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 1783:2151, ack 70594, win 501, length 368
+E.....@.@.."
+
+.....&...P.......P...qC..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%89%93%E4%BA%BA&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1
+
+
+18:41:31.678078 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 2151:2489, ack 81270, win 501, length 338
+E..z..@.@..>
+
+.....&...P..-....P...q%..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%AB%98%E5%A4%A7%E4%B8%8A&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/14.0.1
+
+
+18:41:31.766991 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 620:1253, ack 26757, win 434, length 633
+E...>.@.@...
+
+..|..C..P.n ..&,#P...]...GET /2017-01-11/24094699.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 (like Firefox/3.x) SeaMonkey/2.0.12
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:32.257138 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 2489:2825, ack 93586, win 501, length 336
+E..x..@.@..=
+
+.....&...P.......P...q#..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%AB%98%E5%A4%A7%E4%B8%8A&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
+
+
+18:41:32.281803 IP zcyq-collect-03.33954 > 222.240.149.20.http: Flags [P.], seq 3649065497:3649066346, ack 2845863258, win 115, options [nop,nop,TS val 1064445589 ecr 0], length 849
+E...t.@.@...
+
+.........P..R...mZ...s'8.....
+?r&.....GET /ensure/index/c/ensure_jjsyf_hbbt/page/12960.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:32.439412 IP zcyq-collect-03.39563 > 124.251.46.67.http: Flags [P.], seq 3641:4181, ack 165582, win 649, length 540
+E..D|.@.@.a.
+
+..|..C...P.|&.ET;.P...]0..GET /zt/201312/qjbgy.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/2.02E (Win95; U)
+Host: news.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E4%B8%9C%E5%8D%97%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: JSESSIONID=aaaDUeqOIB7Qc6EFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:32.439508 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 1253:1831, ack 55419, win 457, length 578
+E..j>.@.@...
+
+..|..C..P.n#M.&..P...]V..GET /house/2819185722_3001938.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0 )
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:32.967988 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 2825:3160, ack 105939, win 501, length 335
+E..w..@.@..:
+
+.....&...P.......P...q"..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%AB%98%E5%A4%A7%E4%B8%8A&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+
+
+18:41:33.823701 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 3160:3521, ack 116634, win 501, length 361
+E.....@.@...
+
+.....&...P.....<.P...q<..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%85%AC%E7%9B%8A&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2
+
+
+18:41:34.355211 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 3521:3901, ack 131037, win 501, length 380
+E.....@.@...
+
+.....&...P.....t.P...qO..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%85%AC%E7%9B%8A&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729; .NET4.0E)
+
+
+18:41:34.566363 IP zcyq-collect-03.55798 > 218.30.110.70.http: Flags [P.], seq 472959859:472960466, ack 4284483775, win 115, length 607
+E....B@.@.T.
+
+....nF...P.0.s.`..P..s....GET /2013-03-07/9661168.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.27 (KHTML, like Gecko) Chrome/12.0.712.0 Safari/534.27
+Host: newhouse.gz.fang.com
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=20&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+Cookie: newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+
+
+18:41:34.566424 IP zcyq-collect-03.59041 > 218.30.110.61.http: Flags [P.], seq 1795:2345, ack 30409, win 396, length 550
+E..N!.@.@..w
+
+....n=...PI..F=~.PP....W..GET /news/2016-08-10/22383124.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.01Gold (Win95; I)
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:34.566458 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 1831:2472, ack 86590, win 480, length 641
+E...>.@.@...
+
+..|..C..P.n%..'..P...]...GET /2016-10-09/23114442.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:35.086701 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 3901:4215, ack 145409, win 501, length 314
+E..b..@.@..C
+
+.....&...P.......P...q..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%85%AC%E7%9B%8A&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0 )
+
+
+18:41:35.560743 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 4245:5094, ack 1066425, win 3441, options [nop,nop,TS val 1064448868 ecr 19324896], length 849
+E.....@.@...
+
+.........P#..>J.9...q'8.....
+?r3d.&..GET /ensure/index/c/ensure_jjsyf_hbbt/page/12945.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:35.708364 IP zcyq-collect-03.59033 > 218.30.110.61.http: Flags [P.], seq 600:1251, ack 527, win 177, length 651
+E.....@.@.+.
+
+....n=...P..E..,..P.......GET /news/2016-09-13/22843659.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10
+Host: www.fang.com
+Cookie: JSESSIONID=aaaJqtIB7jsWkcN4a-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:35.906668 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 4215:4539, ack 158576, win 501, length 324
+E..l..@.@..6
+
+.....&...P..=...{P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E7%81%AB%E7%88%86&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows XP) Gecko MultiZilla/1.6.1.0a
+
+
+18:41:36.248607 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 2472:3065, ack 114791, win 480, length 593
+E..y>.@.@...
+
+..|..C..P.n(..'..P...]e..GET /2016-11-28/23658449.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:36.515015 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 4539:4936, ack 170499, win 501, length 397
+E.....@.@...
+
+.....&...P.......P...q`..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E7%81%AB%E7%88%86&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0
+
+
+18:41:37.355937 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 4936:5317, ack 182490, win 501, length 381
+E.....@.@...
+
+.....&...P.....=.P...qP..GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E7%81%AB%E7%88%86&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8
+
+
+18:41:37.745572 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 3065:3657, ack 143404, win 480, length 592
+E..x>.@.@...
+
+..|..C..P.n*a.'..P...]d..GET /2016-12-02/23711335.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/5.0)
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:37.965083 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 5317:5643, ack 194443, win 501, length 326
+E..n..@.@..*
+
+.....&...P.....l.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%8A%A0%E5%BD%B1&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Host: www.baidu.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
+
+
+18:41:38.543078 IP zcyq-collect-03.39693 > 124.251.46.67.http: Flags [P.], seq 3657:4253, ack 170454, win 480, length 596
+E..|>.@.@...
+
+..|..C..P.n,..(]tP...]h..GET /2016-12-27/23952406.htm HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Host: news.dg.fang.com
+Cookie: JSESSIONID=aaa_V1YOawLia6OFc-8Xv; newhouse_user_guid=0B844F5B-162F-B368-FF91-C9EDD8A539F0; newhouse_chat_guid=FD3D5680-3303-AA4E-53EE-472AC5D2AFB8
+Referer: http://news.baidu.com/ns?word=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20site:fang.com&pn=0&cl=2&ct=0&tn=news&rn=20&ie=utf-8&bt=0&et=0
+
+
+18:41:38.715172 IP zcyq-collect-03.33956 > 222.240.149.20.http: Flags [P.], seq 2090922134:2090922983, ack 2929045786, win 115, options [nop,nop,TS val 1064452022 ecr 0], length 849
+E....A@.@.Dq
+
+.........P|..........s'8.....
+?r?.....GET /ensure/index/c/ensure_jjsyf_hbbt/page/12930.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:38.811401 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 5643:6165, ack 205045, win 501, length 522
+E..2..@.@..c
+
+.....&...P. .....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%8A%A0%E5%BD%B1&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=53; PSINO=6; BAIDUID=9981B1452CE46560385C6AAD2CA85A8E:FG=1; PSTM=1496745687; BIDUPSID=9981B1452CE46560385C6AAD2CA85A8E; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:39.666597 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 6165:6686, ack 215297, win 501, length 521
+E..1..@.@..`
+
+.....&...P.".....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%8A%A0%E5%BD%B1&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Opera/9.80 (Windows NT 6.1; U; en) Presto/2.7.62 Version/11.01
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=48; PSINO=6; BAIDUID=9981B1452CE46560AF185E72BD0DEFF2:FG=1; PSTM=1496745687; BIDUPSID=9981B1452CE46560AF185E72BD0DEFF2; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:40.404989 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 6686:7224, ack 225513, win 501, length 538
+E..B..@.@..H
+
+.....&...P.$.....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%87%91%E6%B5%B7%E6%B9%BE&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=40; PSINO=6; BAIDUID=D18D0DB08455916768F9B347BF9A75E1:FG=1; PSTM=1496745688; BIDUPSID=D18D0DB08455916768F9B347BF9A75E1; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:41.240709 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 7224:7762, ack 235786, win 501, length 538
+E..B..@.@..B
+
+.....&...P.&.....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%87%91%E6%B5%B7%E6%B9%BE&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=31; PSINO=6; BAIDUID=BDE4ADDF2F135C77E49668AC9144728F:FG=1; PSTM=1496745689; BIDUPSID=BDE4ADDF2F135C77E49668AC9144728F; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:41.844592 IP zcyq-collect-03.33744 > 222.240.149.20.http: Flags [P.], seq 5094:5943, ack 1279710, win 3441, options [nop,nop,TS val 1064455152 ecr 19324963], length 849
+E.....@.@...
+
+.........P#...J.z...q'8.....
+?rK..&.#GET /ensure/index/c/ensure_jjsyf_hbbt/page/12915.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+Host: zfbz.changsha.gov.cn
+Cookie: zfbzj_cs_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%227361bc8b4f94d09a18b22d2b118efe15%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2259.37.49.171%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A108%3A%22Mozilla%2F5.0+%28Windows+NT+6.2%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F27.0.1453.93+Safari%2F537.36%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1496738683%3B%7D4b323628db6135ae74ee767ed191a0c8
+Referer: http://zfbz.changsha.gov.cn/ensure/index/c/ensure_jjsyf_hbbt/page
+
+
+18:41:42.019541 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 7762:8336, ack 246031, win 501, length 574
+E..f..@.@...
+
+.....&...P.)...6.P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E9%87%91%E6%B5%B7%E6%B9%BE&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=615; PSINO=6; BAIDUID=CBC5C94B783C83B0A0F2BCA8F47217F9:FG=1; PSTM=1496745690; BIDUPSID=CBC5C94B783C83B0A0F2BCA8F47217F9; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:42.588368 IP zcyq-collect-03.45021 > 125.88.219.250.http: Flags [P.], seq 2349236328:2349236625, ack 478366060, win 115, length 297
+E..Q..@.@.a.
+
+..}X.....P...h..IlP..s
+R..GET /ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=0&tn=news&rank=pdate&j=0&src=page HTTP/1.1
+Host: news.so.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.01Gold (Win95; I)
+
+
+18:41:42.644731 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 8336:8892, ack 256262, win 501, length 556
+E..T..@.@.. 
+
+.....&...P.+V..^.P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%81%9A%E4%BC%97&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=35; PSINO=6; BAIDUID=CBC5C94B783C83B0E86840D944D2AE9C:FG=1; PSTM=1496745690; BIDUPSID=CBC5C94B783C83B0E86840D944D2AE9C; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:43.307853 IP zcyq-collect-03.45022 > 125.88.219.250.http: Flags [P.], seq 4079898332:4079898665, ack 1419945750, win 115, length 333
+E..u.z@.@...
+
+..}X.....P..N.T...P..s
+v..GET /ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=1&tn=news&rank=pdate&j=0&src=page HTTP/1.1
+Host: news.so.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0)
+
+
+18:41:43.410778 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 8892:9449, ack 266448, win 501, length 557
+E..U..@.@...
+
+.....&...P.-.....P...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%81%9A%E4%BC%97&pn=10&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=28; PSINO=6; BAIDUID=C743C63EB1B4AEB99FEE0FE9ABD0DE2C:FG=1; PSTM=1496745691; BIDUPSID=C743C63EB1B4AEB99FEE0FE9ABD0DE2C; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:43.567241 IP zcyq-collect-03.39702 > 124.251.46.67.http: Flags [P.], seq 3629971675:3629972121, ack 3944371314, win 115, length 446
+E.....@.@.3p
+
+..|..C...P.\....TrP..s\...GET /2017-05-25/25308328.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/9.0.601.0 Safari/534.14
+Host: news.cd.fang.com
+Referer: http://news.so.com/ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=0&tn=news&rank=pdate&j=0&src=page
+
+
+18:41:43.992861 IP zcyq-collect-03.45024 > 125.88.219.250.http: Flags [P.], seq 2259429388:2259429721, ack 1916206401, win 115, length 333
+E..u|G@.@..-
+
+..}X.....P..(.r6.AP..s
+v..GET /ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=2&tn=news&rank=pdate&j=0&src=page HTTP/1.1
+Host: news.so.com
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+
+
+18:41:44.111778 IP zcyq-collect-03.57830 > 180.163.255.159.http: Flags [P.], seq 4134173646:4134174594, ack 4271589645, win 115, length 948
+E.../e@.@...
+
+.........P.j{...IP..sg...GET /s?type=2&r=20&pinfo=&mv_ref=news%2Eso%2Ecom&enup=CAABOyUxqwgAAqsxJTsA&mvid=NDE5MTMyODcyNDM0MTE4MDYwNjAwMTc&bid=116341b9c59e6b68&price=AAAAAFk2hucAAAAAAAdl7EGmt7bOnjFG68mi2A==&finfo=DAABCAABAAABgQgAAgAAAJUEAAM/Uax2gdkizAAIAAIAAAADCgADO8idmbyszvMIAAQAAAFlCAAIADq/EAoACQAAAAAABgAYBgAKAAAA&ugi=FZjsDhXcrkBMFQIVQBVGFQAAFbyt89wDAA&uai=FbLqzQElAhUCFvyitbyYoMrIdxXwByXImeneCgA&ubi=Fb7ZLxXYz84BFZazuA4ViJe+RxUGFRwWwsnr7RMW/KLKo6Lmzsh3NAIWsIAwJQYVlLH+9QIVpgEVAAA&clickid=0&csign=c029ec1fdd68703c&url=http%3A%2F%2Fwww%2Eyesacc%2Ecom%2Fsunbo%2Fpc%2Findex%2Ehtml%3F3601%2Dsunbo%2D5%2E16%2E4%2E2 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)
+Host: ssxd.mediav.com
+Referer: http://news.so.com/ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=1&tn=news&rank=pdate&j=0&src=page
+
+
+18:41:44.145486 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 9449:9978, ack 276636, win 501, length 529
+E..9..@.@..+
+
+.....&...P./.....P...q...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E8%81%9A%E4%BC%97&pn=20&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/5.0)
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=31; PSINO=6; BAIDUID=4F5896E471857B57C188B757A8B429DD:FG=1; PSTM=1496745692; BIDUPSID=4F5896E471857B57C188B757A8B429DD; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+18:41:44.442700 IP zcyq-collect-03.39705 > 124.251.46.67.http: Flags [P.], seq 4216658406:4216658828, ack 3430532535, win 115, length 422
+E...L.@.@..!
+
+..|..C...P.U...y..P..s\...GET /2017-05-14/25206994.html HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB5
+Host: news.ks.fang.com
+Referer: http://news.so.com/ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=2&tn=news&rank=pdate&j=0&src=page
+
+
+18:41:44.479396 IP zcyq-collect-03.41888 > 42.62.10.145.http: Flags [P.], seq 2765013965:2765014381, ack 1938172543, win 115, length 416
+E.....@.@...
+
+..*>
+....P....s.*.P..s.D..GET /sunbo/pc/index.html?3601-sunbo-5.16.4.2 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1
+Host: www.yesacc.com
+Referer: http://news.so.com/ns?q=%E6%A3%AE%E6%9E%97%E5%9F%8E%E5%B8%82%20site:fang.com&pn=1&tn=news&rank=pdate&j=0&src=page
+
+
+18:41:44.706574 IP zcyq-collect-03.60543 > 14.215.177.38.http: Flags [P.], seq 9978:10535, ack 286829, win 501, length 557
+E..U..@.@...
+
+.....&...P.1....xP...r...GET /s?rtt=2&wd=%E7%A2%A7%E6%A1%82%E5%9B%AD%20%E5%9E%83%E5%9C%BE&pn=0&tn=baiduwb&ie=utf-8 HTTP/1.1
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2
+Host: www.baidu.com
+Cookie: BD_CK_SAM=1; BDSVRTM=28; PSINO=6; BAIDUID=4F5896E471857B5709BDACCE95AFD2C9:FG=1; PSTM=1496745692; BIDUPSID=4F5896E471857B5709BDACCE95AFD2C9; BDRCVFR[HE-BYYE3Dh3]=mk3SLVN4HKm; H_PS_PSSID=
+
+
+
